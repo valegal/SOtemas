@@ -1,5 +1,4 @@
-# SOtemas 
-**Trabajos de la materia Sistemas Operacionales**
+# SOtemas *Trabajos de la materia Sistemas Operacionales*
 ---
 ## Investigación 02
 1. ### Problemas de seguridad en entornos compartidos
