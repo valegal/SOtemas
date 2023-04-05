@@ -1,0 +1,5 @@
+# Comprimir la carpeta y los archivos 
+ carpeta="new_folder" 
+ archivo_comp="new_folder.tar.gz" 
+  
+ tar -czf "$archivo_comp" "$carpeta" archivo1.txt archivo2.txt suma.txt
