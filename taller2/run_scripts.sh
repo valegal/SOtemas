@@ -1,3 +1,3 @@
-./crear_carpeta.sh 
-./suma_vectores.sh 
-./comprimir_carpeta.sh
+./crear_folder.sh 
+./vector_sum.sh 
+./comp_folder.sh
