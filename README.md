@@ -1,2 +1,5 @@
-# SOtemas *Trabajos de la materia Sistemas Operacionales* 2023-1
+*Trabajos de la materia Sistemas Operacionales*
+
 ---
+
+            SOtemas
