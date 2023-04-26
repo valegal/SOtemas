@@ -1,5 +1,4 @@
-*Trabajos de la materia Sistemas Operacionales*
-
+# *Trabajos de la materia Sistemas Operacionales*
 ---
 
-            SOtemas
+    SOtemas
