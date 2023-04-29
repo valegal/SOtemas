@@ -5,7 +5,7 @@
             
 ## 1. Describa dos ejemplos en los que los mecanismos multihilo no proporcionen un mejor rendimiento que el monohilo.
 
-- Cuando el proceso no tiene que hacer una tarea compleja y solamente tenga que hacer una tarea pequeña como ser la suma de 2 números.
+- Cuando el proceso no tiene que hacer una tarea compleja y solamente tenga que hacer una tarea pequeña como hacer la suma de 2 números.
 - Cuando la aplicación que se ha desarrollado es muy simple y no tiene sentido plantearse este tipo de programación.
 
 ## 2. Describa las acciones que toma una biblioteca de hilos para cambiar el contexto entre hilos de nivel de usuario.
