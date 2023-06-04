@@ -1,6 +1,6 @@
 # **INVESTIGACION #04**
 
-            * Valentina Galeaano Castro - 2191692 *
+            * Valentina Galeano Castro - 2191692 *
 
             
 ## 1. Describa dos ejemplos en los que los mecanismos multihilo no proporcionen un mejor rendimiento que el monohilo.
