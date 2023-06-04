@@ -1,6 +1,6 @@
 # **INVESTIGACION #05**
 
-            * Valentina Galeaano Castro - 2191692 *     
+            * Valentina Galeano Castro - 2191692 *     
 
 - 1. ¿Por qué es importante para un planificador diferenciar entre un programa limitado por I/O y por CPU?
 
