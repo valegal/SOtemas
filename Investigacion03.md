@@ -1,6 +1,6 @@
 # **INVESTIGACION #03**
 
-            * Valentina Galeaano Castro - 2191692 *
+            * Valentina Galeano Castro - 2191692 *
 
 
 ## 1. Diferencias entre planeación a corto y largo plazo:
