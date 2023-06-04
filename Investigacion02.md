@@ -1,6 +1,6 @@
 # **INVESTIGACION #02**
 
-            * Valentina Galeaano Castro - 2191692 *
+            * Valentina Galeano Castro - 2191692 *
 
             
 ## 1. Problemas de seguridad en entornos compartidos
