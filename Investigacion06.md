@@ -1,6 +1,6 @@
 # **INVESTIGACION #06**
 
-            * Valentina Galeaano Castro - 2191692 *
+            * Valentina Galeano Castro - 2191692 *
 
             
 ## 1. ¿Cual es significado del termino espera activa?
