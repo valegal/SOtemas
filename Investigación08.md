@@ -118,17 +118,26 @@ c. ¿Por qué debería o por qué no debería?
 
 Para esto se debe consultar la tabla de segmento y verificar que el desplazamiento, o sea la parte derecha de la dirección lógica, sea menor que la longitud del segmento correspondiente. Luego, se debe sumar el desplazamiento a la base del segmento para obtener la dirección física.
 
-430 -> El segmento es 0 y el desplazamiento es 430. Como 430 < 600, la dirección es válida. La dirección física es 219 + 430 = 649.
-10 -> El segmento es 0 y el desplazamiento es 10. Como 10 < 600, la dirección es válida. La dirección física es 219 + 10 = 229.
-500 -> El segmento es 0 y el desplazamiento es 500. Como 500 < 600, la dirección es válida. La dirección física es 219 + 500 = 719.
-400 -> El segmento es 0 y el desplazamiento es 400. Como 400 < 600, la dirección es válida. La dirección física es 219 + 400 = 619.
-112 -> El segmento es 0 y el desplazamiento es 112. Como 112 < 600, la dirección es válida. La dirección física es 219 + 112 = 331.
+0. 430 -> El segmento es 0 y el desplazamiento es 430. Como 430 < 600, la dirección es válida. La dirección física es 219 + 430 = 649.
+
+1. 10 -> El segmento es 0 y el desplazamiento es 10. Como 10 < 600, la dirección es válida. La dirección física es 219 + 10 = 229.
+
+2. 500 -> El segmento es 0 y el desplazamiento es 500. Como 500 < 600, la dirección es válida. La dirección física es 219 + 500 = 719.
+
+3. 400 -> El segmento es 0 y el desplazamiento es 400. Como 400 < 600, la dirección es válida. La dirección física es 219 + 400 = 619.
+
+4. 112 -> El segmento es 0 y el desplazamiento es 112. Como 112 < 600, la dirección es válida. La dirección física es 219 + 112 = 331.
 
 Las direcciones físicas para las direcciones lógicas serían:
 
 430 -> 649
+
 10 -> 229
+
 500 -> 719
+
 400 -> 619
+
 112 -> 331
+
 
