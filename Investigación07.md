@@ -1,0 +1,1 @@
+Para demostrar que las cuatro condiciones necesarias para que se produzca un interbloqueo se cumplen, se deben verificar los siguientes aspectos: El interbloqueo es una condición que se presenta en los sistemas de planificación y control, donde varias tareas o procesos se bloquean entre sí, impidiendo su progreso y causando un estancamiento en el sistema.
