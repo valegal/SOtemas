@@ -1,6 +1,6 @@
 # **INVESTIGACION #07**
 
-            * Valentina Galeaano Castro - 2191692 *
+            * Valentina Galeano Castro - 2191692 *
 
             
 ## 1. ¿Considere la imagen, demuestre que las cuatro condiciones necesarias para que se produzca un interbloqueo se cumplen.
