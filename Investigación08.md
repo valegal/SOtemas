@@ -1,6 +1,6 @@
 # **INVESTIGACION #08**
 
-            * Valentina Galeaano Castro - 2191692 *
+            * Valentina Galeano Castro - 2191692 *
 
             
 ## 1. Explique la diferencia entre los conceptos de fragmentación interna y externa.
