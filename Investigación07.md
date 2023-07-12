@@ -3,7 +3,7 @@
             * Valentina Galeano Castro - 2191692 *
 
             
-## 1. ¿Considere la imagen, demuestre que las cuatro condiciones necesarias para que se produzca un interbloqueo se cumplen.
+## 1. Considere la imagen, demuestre que las cuatro condiciones necesarias para que se produzca un interbloqueo se cumplen.
 
   Cuando se demuestra que las cuatro condiciones necesarias para que se produzca un interbloqueo se cumplen simultaneamente se deben verificar varios aspectos ya que el interbloqueo es una condición que se presenta en los sistemas de planificación y control, donde varias tareas o procesos se bloquean entre sí, impidiendo su progreso y causando un estancamiento en el sistema.
 
